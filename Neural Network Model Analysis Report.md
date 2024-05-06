@@ -20,6 +20,8 @@ The variables removed from the input data are "EIN" and "NAME" because they are 
 1st Attempt:
 Initially, the model consists of three layers with 80, 30, and 1 neurons respectively. The activation function for the first two layers is "relu", while the activation function for the output layer is "sigmoid". The number of epochs is 100. This model produced an accuracy of 72.50%, which did not achieve a target predictive accuracy higher than 75%.  
 
+![alt text](https://github.com/Roy-Ip/deep-learning-challenge/blob/main/Images/Attempt%201%20(Codes).png)
+
 2nd Attempt:
 Therefore, 2nd attempt was done by increasing the number of neurons. This model consists of three layers with 300, 300, and 1 neurons respectively. The activation functions and number of epochs remain the same as the original model. This model produced an accuracy of 72.51%, which did not achieve a target predictive accuracy higher than 75%.
 
